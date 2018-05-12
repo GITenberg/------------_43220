@@ -1,0 +1,31 @@
+_repo: '------------_43220'
+_version: 0.1.0
+alternative_title: Kattula Vantena
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ramamohan Rao, Mahidhara
+    aliases:
+    - Mahidhara Ramamohan Rao
+    - మహీధర రామమోహనరావు
+    - Rao, Mahidhara Ramamohan
+    birthdate: 1909
+    deathdate: 2000
+    gutenberg_agent_id: '39781'
+    url: http://www.gutenberg.org/2009/agents/39781
+description: ''
+gutenberg_issued: '2013-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43220'
+language: te
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PL'
+title: కత్తుల వంతెన
+url: http://www.gutenberg.org/ebooks/43220
